@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Portofolio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">Hilman</string>
+    <string name="user_career">Android Developer at LPDP Kemenkeu RI</string>
+
+    <string name="user_about_info">@string/lorem_ipsum</string>
+    <string name="documentation_link">Documentation Link</string>
+    <string name="app_android_btn">%s App Android</string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ante sit amet est mattis fringilla sit amet vel elit. Praesent mattis dapibus nisi. Cras scelerisque at mi vel accumsan. Maecenas in fermentum augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut volutpat massa. Vivamus leo nisi, convallis in pretium ac, ullamcorper eget justo.
+
+Donec tempus ornare dapibus. Ut vulputate molestie fringilla. Phasellus ligula orci, pharetra id dapibus dignissim, rhoncus at tortor. Maecenas aliquet tempus turpis, vel egestas ligula. Nullam quis tempus augue. Donec ac accumsan ligula. Etiam sapien ante, scelerisque at diam a, hendrerit ornare metus. Quisque dui tellus, lobortis quis interdum vitae, bibendum sed neque.
+    </string>
+</resources>
